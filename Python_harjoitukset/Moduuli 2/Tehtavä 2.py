@@ -1,5 +1,8 @@
 import math
-säde = input("anna ympyrän säde: ")
-säde = float(säde)
-pinta-ala = math.pi *säde + säde
-print("Ympyrän pinta-ala on", pinta-ala)
+säde = float(input("anna ympyrän säde: "))
+A= math.pi *säde **2
+print(f"Ympyrän pinta-ala on {A:.2f}")
+
+
+      
+
