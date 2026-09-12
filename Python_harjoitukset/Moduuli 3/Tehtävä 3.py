@@ -1,0 +1,1 @@
+kuha=input("Mikä on kuhan pituus")
