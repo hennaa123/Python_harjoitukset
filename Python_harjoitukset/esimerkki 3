@@ -1,0 +1,5 @@
+ostoslista = ["leipä", "rahka", "omena"]
+while ostoslista:
+    tuote = input ("minkä tuotteen ostit?")
+    if tuote in ostoslista:
+        ostoslista.remove(ostos)

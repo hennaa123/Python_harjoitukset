@@ -1,0 +1,6 @@
+vari = ["vihreä", "keltainen", "punainen", "sininen"]
+lempivari = input("Mikä on lempivarisi?")
+if lempivari in vari:
+    print("vari löytyy listalta")
+else:
+    print("vari ei ole listalla")
